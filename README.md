@@ -29,5 +29,5 @@ Welcome to my GitHub profile. I'm Edward Utria, a passionate full-stack develope
 
 Feel free to explore my repositories, star your favorites, and connect. Let's make the coding world a better place together! 🌎
 
-![Edwrld GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrld&show_icons=true&theme=radical)
+![Edwrld GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrld&show_icons=true&theme=radical&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwrld&size_weight=0.5&count_weight=0.5)
