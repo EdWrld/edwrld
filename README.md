@@ -21,6 +21,6 @@ Welcome to my GitHub profile. I'm Edward Utria, a passionate full-stack develope
 - [LinkedIn](https://linkedin.com/in/edward-utria-11b06518b): Connect professionally on LinkedIn.
 - edwardutria12@gmail.com: send me a email.
 
-Feel free to explore my repositories, star your favorites, and connect. Let's make the coding world a better place together! 🌎
+Feel free to explore my repositories!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwrld&size_weight=0.5&count_weight=0.5&layout=compact)
