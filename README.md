@@ -22,5 +22,3 @@ Welcome to my GitHub profile. I'm Edward Utria, a passionate full-stack develope
 - edwardutria12@gmail.com: send me a email.
 
 Feel free to explore my repositories!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwrld&size_weight=0.5&count_weight=0.5&layout=compact)
